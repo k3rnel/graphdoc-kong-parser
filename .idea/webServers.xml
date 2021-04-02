@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4464dece-2591-45d9-989a-c4f469a51cd3" name="Kong">
+        <fileTransfer rootFolder="/app/kong/portals/kong-portal-templates" accessType="SFTP" host="34.77.1.206" port="22" sshConfigId="ef648ba4-7b8a-4bd7-a7fc-71883a245224" sshConfig="Kong portal" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

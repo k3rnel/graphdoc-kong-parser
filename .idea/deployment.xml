@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Kong" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Kong">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workspaces/uc-commerce/themes/base/layouts/pages" local="$PROJECT_DIR$/result/pages" web="" />
+            <mapping deploy="/workspaces/uc-commerce/content" local="$PROJECT_DIR$/result/content" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
